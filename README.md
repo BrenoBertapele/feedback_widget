@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Next Level Week #8" src=".github/feedbackwidget.png" />
+  <img alt="Next Level Week #8" src=".github/logo.png" />
 </p>
 
 ## 💻 Project
